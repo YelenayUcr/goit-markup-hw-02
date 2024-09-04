@@ -29,6 +29,9 @@ h1 {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
+.button-about:hover{
+    color: #404BBF;
+}
 .main-about {
     text-align: center;
     background-color: #2E2F42;
@@ -40,8 +43,13 @@ h1 {
         font-weight: 500;
         line-height: 1.5em;
         letter-spacing: 0.02em;
-        cursor: pointer;
-
+        cursor: pointer;   
+}
+.title:hover {
+        color: #404BBF;
+}
+.title1:active{
+    color: #404BBF;
 }
 .address{
     text-decoration: none;
@@ -51,6 +59,9 @@ h1 {
         line-height: 1.5em;
         letter-spacing: 0.02em;
         cursor: pointer;
+}
+.address:hover{
+    color:#404BBF
 }
 ul {
     list-style-type: none;
