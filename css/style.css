@@ -1,0 +1,83 @@
+body{
+    font-family: "Roboto", sans-serif ;
+}
+.title-about{
+    background-color: #FFFFFF;
+    color: #4D5AE5;
+    text-decoration: none;
+    list-style-type: none;
+}
+.studio{
+    color: #2E2F42;
+        text-decoration: none;
+            list-style-type: none;
+}
+.main-about {
+    background-color: #2E2F42;
+width: 1440px;
+    height: 600px;
+    top: 72px;
+    gap: 0px;
+    opacity: 0px;
+}
+.button-about{
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+        font-family: "Roboto", sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0.04em;
+            text-align: left;
+            cursor: pointer;
+}
+.title{
+    text-decoration: none;
+    color: #2E2F42;
+
+}
+.address{
+    text-decoration: none;
+    color: #434455;
+}
+ul {
+    list-style-type: none;
+}
+h1{
+    color:#FFFFFF;
+    width: 496px;
+    height: 120px;
+    top: 260px;
+    left: 472px;
+    gap: 0px;
+    opacity: 0px;
+}
+h2{
+    color: #2E2F42;
+}
+h3{
+    color: #2E2F42;
+}
+p{
+    color: #434455;
+}
+.footer-title {
+    color: #4D5AE5;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.footer-studio {
+    color: #F4F4FD;
+    text-decoration: none;
+    list-style-type: none;
+}
+.footer-p{
+color: #F4F4FD;
+}
+.footer-about{
+    background-color: #2E2F42;
+    width: 1440px;
+        height: 312px;
+        top: 1748px;
+}
