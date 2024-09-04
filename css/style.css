@@ -12,72 +12,105 @@ body{
         text-decoration: none;
             list-style-type: none;
 }
-.main-about {
-    background-color: #2E2F42;
-width: 1440px;
-    height: 600px;
-    top: 72px;
-    gap: 0px;
-    opacity: 0px;
+h1 {
+    text-align: center;
+    font-size: 56px;
+    line-height: 3.75em;
+    letter-spacing: 2%;
+    color: #FFFFFF;
 }
-.button-about{
+
+.button-about {
+    text-align: center;
     background-color: #4D5AE5;
     color: #FFFFFF;
-        font-family: "Roboto", sans-serif;
-            font-size: 16px;
-            font-weight: 500;
-            line-height: 24px;
-            letter-spacing: 0.04em;
-            text-align: left;
-            cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5em;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.main-about {
+    text-align: center;
+    background-color: #2E2F42;
 }
 .title{
     text-decoration: none;
     color: #2E2F42;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+        cursor: pointer;
 
 }
 .address{
     text-decoration: none;
     color: #434455;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
+        cursor: pointer;
 }
 ul {
     list-style-type: none;
 }
-h1{
-    color:#FFFFFF;
-    width: 496px;
-    height: 120px;
-    top: 260px;
-    left: 472px;
-    gap: 0px;
-    opacity: 0px;
-}
 h2{
     color: #2E2F42;
+    background-color: #F4F4FD;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 2.5em;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+.ul-about{
+background-color: #F4F4FD;
 }
 h3{
     color: #2E2F42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
 }
 p{
     color: #434455;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5em;
+        letter-spacing: 0.02em;
 }
 .footer-title {
     color: #4D5AE5;
     text-decoration: none;
     list-style-type: none;
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.3125em;
+        letter-spacing: 0.03em;
+        text-align: left;
 }
 
 .footer-studio {
     color: #F4F4FD;
     text-decoration: none;
     list-style-type: none;
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.3125em;
+        letter-spacing: 0.03em;
+        text-align: left;
 }
 .footer-p{
 color: #F4F4FD;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    letter-spacing: 0.02em;
 }
 .footer-about{
     background-color: #2E2F42;
-    width: 1440px;
-        height: 312px;
-        top: 1748px;
 }
