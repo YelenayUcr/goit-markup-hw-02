@@ -1,3 +1,4 @@
+
 body{
     font-family: "Roboto", sans-serif ;
 }
@@ -6,11 +7,23 @@ body{
     color: #4D5AE5;
     text-decoration: none;
     list-style-type: none;
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.3125;
+        letter-spacing: 0.03em;
+        text-align: left;
 }
 .studio{
     color: #2E2F42;
         text-decoration: none;
             list-style-type: none;
+            font-family: Raleway;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 1.3125;
+                letter-spacing: 0.03em;
+                text-align: left;
 }
 h1 {
     text-align: center;
@@ -30,7 +43,7 @@ h1 {
     cursor: pointer;
 }
 .button-about:hover{
-    color: #404BBF;
+    background-color: #404BBF;
 }
 .main-about {
     text-align: center;
