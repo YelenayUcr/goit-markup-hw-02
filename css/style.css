@@ -105,6 +105,9 @@ p{
         line-height: 1.5em;
         letter-spacing: 0.02em;
 }
+.portfolio{
+    background-color: #FFFFFF;
+}
 .footer-title {
     color: #4D5AE5;
     text-decoration: none;
