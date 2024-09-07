@@ -1,8 +1,32 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.header-about .container{
+    display: flex;
+    flex-wrap: wrap;
+align-items:baseline;
+
+
+}
+.ul-about1{
+    display: flex;
+    gap: 21px;
+
+}
+.address-about{
+    display: flex;
+    gap: 21px;
+
+}
 
 body{
     font-family: "Roboto", sans-serif ;
 }
 .title-about{
+ 
     background-color: #FFFFFF;
     color: #4D5AE5;
     text-decoration: none;
@@ -48,7 +72,9 @@ h1 {
 .main-about {
     text-align: center;
     background-color: #2E2F42;
+    align-self:auto ;
 }
+
 .title{
     text-decoration: none;
     color: #2E2F42;
@@ -72,12 +98,14 @@ h1 {
         line-height: 1.5em;
         letter-spacing: 0.02em;
         cursor: pointer;
+        align-content: flex-end;
 }
 .address:hover{
     color:#404BBF
 }
 ul {
     list-style-type: none;
+    display: flex;
 }
 h2{
     color: #2E2F42;
